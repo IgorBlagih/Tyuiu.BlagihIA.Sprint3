@@ -25,7 +25,7 @@ namespace Tyuiu.BlagihIA.Sprint3.Task0.V28
             int startValue = 1;
             int stopValue = 17;
             double x = 0.25;
-
+             
             double res = ds.GetMultiplySeries(x, startValue, stopValue);
 
             Console.WriteLine("***************************************************************************");

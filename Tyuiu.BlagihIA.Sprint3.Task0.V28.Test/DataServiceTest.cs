@@ -10,7 +10,7 @@ namespace Tyuiu.BlagihIA.Sprint3.Task0.V28.Test
             DataService ds = new DataService();
             double x = 1;
             int i = 1;
-            int end = 2;
+            int end = 2; 
             double wait = 12;
             double res = ds.GetMultiplySeries(x, i, end);
 

@@ -11,7 +11,7 @@ namespace Tyuiu.BlagihIA.Sprint3.Task0.V28.Lib
                 res = res * ((Math.Pow(value, 3) * i) + 2);
 
             }
-          return Math.Round(res,3);
+          return  Math.Round(res,3);
         }
     }
 }
