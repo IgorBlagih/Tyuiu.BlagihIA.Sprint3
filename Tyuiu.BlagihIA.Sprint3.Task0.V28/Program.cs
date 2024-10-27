@@ -8,10 +8,10 @@ namespace Tyuiu.BlagihIA.Sprint3.Task0.V28
             DataService ds = new DataService();
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #2                                                               *");
+            Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Базовые навыки  работы в С#                                       *");
-            Console.WriteLine("* Задание #7                                                              *");
-            Console.WriteLine("* Вариант #1                                                              *");
+            Console.WriteLine("* Задание #0                                                              *");
+            Console.WriteLine("* Вариант #28                                                              *");
             Console.WriteLine("* Выполнил: Благих Игорь Александрович | ИИПб-24-2                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
