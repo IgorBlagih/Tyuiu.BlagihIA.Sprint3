@@ -16,7 +16,7 @@ namespace Tyuiu.BlagihIA.Sprint3.Task2.V9
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу используя цикл do...while, которая вычисляет         *");
-            Console.WriteLine("* произведение ряда по формуле, при n = 5                                 *");
+            Console.WriteLine("* сумму ряда по формуле, при n = 5                                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("* n = 5                                                                *");
